@@ -1,0 +1,8 @@
+{
+  "name": "Mesh",
+  "description": "A fast web framework based on uWebSocket.js",
+  "website": "https://github.com/ionited/mesh",
+  "benchmarks": {
+    "hello_bench": ["npm install", "node hello_bench.js"]
+  }
+}
