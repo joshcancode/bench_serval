@@ -1,8 +1,0 @@
-{
-  "name": "Vixeny (Deno)",
-  "description": "A pure functional web framework",
-  "website": "https://vixeny.dev/",
-  "benchmarks": {
-    "hello_bench": "deno run -A --unstable hello_bench.ts"
-  }
-}

@@ -1,8 +1,0 @@
-{
-  "name": "http",
-  "description": "The deno standard library http server",
-  "website": "https://deno.land/std/http",
-  "benchmarks": {
-    "hello_bench": "deno run -A --unstable hello_bench.ts"
-  }
-}
